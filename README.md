@@ -1,7 +1,7 @@
 # Vehicle Lead Capture – Take-Home
 
 ## Build Checklist
-- **Dataset & Seeding** – Fetch the 50-lead JSON (`https://gist.githubusercontent.com/codemk12/3691a622ba446e4e39d0e80ece702a44/raw/leads.json`) and seed your database when empty.
+- **Dataset & Seeding** – Fetch the 50-lead JSON (`https://gist.githubusercontent.com/codemk12/3691a622ba446e4e39d0e80ece702a44`) and seed your database when empty.
 - **Data Model** – Design a relational schema with multiple related tables (e.g., leads, sources, status history) that mirrors the dataset.
 - **API Layer** – Build a CRUD microservice (list, create, update, delete) with proper validation, errors, and HTTP semantics.
 - **UI Dashboard** – Deliver a lightweight UI that showcases every API action (listing, status change, delete, create).
