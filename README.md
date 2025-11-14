@@ -40,7 +40,7 @@ The data will follow this structure (a single array of lead objects):
     "vehicleOfInterest": "2024 Toyota Camry",
     "status": "New"
   }
-  // ... approximately 49 more lead objects
+...
 ]
 ```
 
